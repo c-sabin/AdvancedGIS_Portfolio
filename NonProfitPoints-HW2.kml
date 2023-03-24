@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Saga Education</name>
+    <Style id="icon-1526-FF5252-nodesc-normal">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1526-FF5252-nodesc-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1526-FF5252-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1526-FF5252-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1526-FF5252-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1548-0F9D58-nodesc-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1548-0F9D58-nodesc-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1548-0F9D58-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1548-0F9D58-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1548-0F9D58-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Broward County School District</name>
+      <styleUrl>#icon-1526-FF5252-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -80.543845,26.2019505,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Charleston County School District</name>
+      <styleUrl>#icon-1526-FF5252-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -80.0534923,32.817406,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chicago Public School District 299</name>
+      <styleUrl>#icon-1526-FF5252-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -87.658113,41.8561467,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New York City School District 1</name>
+      <styleUrl>#icon-1526-FF5252-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -73.9861998,40.7209481,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Providence School District</name>
+      <styleUrl>#icon-1526-FF5252-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -71.4180622,41.8302356,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>District of Columbia Public Schools</name>
+      <styleUrl>#icon-1526-FF5252-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -77.0334179,38.9059849,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>10 Laudholm Rd</name>
+      <styleUrl>#icon-1548-0F9D58-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -71.1938425,42.3485751,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

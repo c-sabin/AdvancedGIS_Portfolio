@@ -5,7 +5,7 @@
     <description/>
     <Style id="icon-1526-FF5252-nodesc-normal">
       <IconStyle>
-        <color>ff5252ff</color>
+        <color>23d9c7</color>
         <scale>1</scale>
         <Icon>
           <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -20,7 +20,7 @@
     </Style>
     <Style id="icon-1526-FF5252-nodesc-highlight">
       <IconStyle>
-        <color>ff5252ff</color>
+        <color>23d9c7</color>
         <scale>1</scale>
         <Icon>
           <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -45,7 +45,7 @@
     </StyleMap>
     <Style id="icon-1548-0F9D58-nodesc-normal">
       <IconStyle>
-        <color>ff589d0f</color>
+        <color>23d9c7</color>
         <scale>1</scale>
         <Icon>
           <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -60,7 +60,7 @@
     </Style>
     <Style id="icon-1548-0F9D58-nodesc-highlight">
       <IconStyle>
-        <color>ff589d0f</color>
+        <color>23d9c7</color>
         <scale>1</scale>
         <Icon>
           <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>

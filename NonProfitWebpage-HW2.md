@@ -57,7 +57,7 @@ After creating the custom color palette, I entered Google Styling Wizard and beg
 
 
 #### Map Style JSON File
-When input into the Styling Wizard, these custom elements produced a code chunk that can be utilized to replicate this style. You can download the JSON file containing the custom map style here: [Saga Education: Style Elements JSON](https://github.com/c-sabin/AdvancedGIS_Portfolio/blob/main/saga_mapstyle.txt). 
+When input into the Styling Wizard, these custom elements produced a code chunk that can be utilized to replicate this style. You can download the JSON file containing the custom map style here: [Saga Education: Style Elements JSON](https://raw.githubusercontent.com/c-sabin/AdvancedGIS_Portfolio/main/saga_mapstyle.txt). 
 
 
 #### Examples

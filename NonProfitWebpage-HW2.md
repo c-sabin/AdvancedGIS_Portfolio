@@ -22,7 +22,7 @@ The following deliverables are included in this project:
    + interactive map embedded on webpage
    + KML file with point locations
 
-The initial bid for work, including the cost and scheduling for both phases, can be found at this link: 
+The initial bid for work, including the cost and scheduling for both phases, can be found at this link: [Bid for Saga Education Mapping Project](https://docs.google.com/document/d/1kxcpC-cjW_rXK1ZVuWrZLn_x9894iQ-yK11TED__hZY/edit?usp=sharing)
 
 ---
 ### Phase 1: Customize the Map Style

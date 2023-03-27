@@ -12,25 +12,27 @@ This project is an effort to build and deploy a customized map consistent with t
 
 The following deliverables are included in this project: 
 
-    **Phase One**
-    + look-up table for style elements
-    + JSON file containing style code 
-    + webpage demonstration 
-    + documentation on using provided materials
+   **Phase One**
+   + look-up table for style elements
+   + JSON file containing style code 
+   + webpage demonstration 
+   + documentation on using provided materials
 
-    **Phase Two**
-    + interactive map embedded on webpage
-    + KML file with point locations
+   **Phase Two**
+   + interactive map embedded on webpage
+   + KML file with point locations
+
+The initial bid for work, including the cost and scheduling for both phases, can be found at this link: 
 
 ---
 ### Phase 1: Customize the Map Style
 
 #### Color Palette
-First, I used the Adobe Color tool to extract five colors from the Saga Education logo, which would become the color palette I will use to align the custom map to the non-profit's brand. The color pallete from Saga Education's branded image is provided here: ![Saga Education color palette](https://github.com/c-sabin/AdvancedGIS_Portfolio/blob/main/Saga%20Color%20Palette.png)
+First, I used the Adobe Color tool to extract five colors from the Saga Education logo, which would become the color palette I will use to align the custom map to the non-profit's brand. The color pallete from Saga Education's branded image is provided here: ![Saga Education: Color Palette](https://github.com/c-sabin/AdvancedGIS_Portfolio/blob/main/Saga%20Color%20Palette.png)
 
 
 #### Style Look-up Table
-After creating the custom color palette, I entered [Google Styling Wizard](https://mapstyle.withgoogle.com/) and began customizing various map elements. The style elements that were changed are listed in the look-up table below.
+After creating the custom color palette, I entered Google Styling Wizard and began customizing various map elements. The style elements that were changed are listed in the look-up table below.
 
 | Feature type | Element type | Stylers |
 | -------------| -------------| --------| 
@@ -55,7 +57,7 @@ After creating the custom color palette, I entered [Google Styling Wizard](https
 
 
 #### Map Style JSON File
-When input into the Styling Wizard, these custom elements produced a code chunk that can be utilized to replicate this style. You can download the JSON file containing the custom map style here: [Saga Education map style JSON](https://github.com/c-sabin/AdvancedGIS_Portfolio/blob/main/saga_mapstyle.txt). 
+When input into the Styling Wizard, these custom elements produced a code chunk that can be utilized to replicate this style. You can download the JSON file containing the custom map style here: [Saga Education: Style Elements JSON](https://github.com/c-sabin/AdvancedGIS_Portfolio/blob/main/saga_mapstyle.txt). 
 
 
 #### Examples
@@ -75,7 +77,7 @@ The final screenshot in this series is zoomed in even further, to Boston and the
 ### Phase 2: Embed an Interactive Map
 
 #### Interactive Map
-As the first step in phase two, I established an API through Google's Cloud Platform. This allowed me to embed the custom map on a website that the client could further customize to meet their needs. The deployed interactive map can be found at the following site: [Embedded Custom Map](https://c-sabin.github.io/AdvancedGIS_Portfolio/NonProfitCustomMap-HW2). 
+As the first step in phase two, I established an API through Google's Cloud Platform. This allowed me to embed the custom map on a website that the client could further customize to meet their needs. The deployed interactive map can be found at the following site: [Saga Education: Interactive Map](https://c-sabin.github.io/AdvancedGIS_Portfolio/NonProfitCustomMap-HW2). 
 
 #### Points of Interest
 In addition to producing the interactive map, I added some of the organization's site locations to this map as point "markers." The points of interest I defined include: 

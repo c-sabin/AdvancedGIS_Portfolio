@@ -82,14 +82,13 @@ As the first step in phase two, I established an API through Google's Cloud Plat
 #### Points of Interest
 In addition to producing the interactive map, I added some of the organization's site locations to this map as point "markers." The points of interest I defined include: 
 
-+ six school districts being serviced
-      1. Boward County, FL
-      2. Charleston, SC
-      3. Chicago, IL
-      4. New York, NY
-      5. Providence, RI
-      6. Washington D.C.
-+ organization headquarters: Newton, MA
+ + six school districts being serviced
+   + Boward County, FL
+   + Charleston, SC
+   + Chicago, IL
+   + New York, NY
+   + Providence, RI
+   + Washington D.C.
+ + organization headquarters: Newton, MA
 
-I utilized Google's MyMaps tool to define these seven points of interest. In addition to defining this point layer, I also customized the icons for each point to be the Saga Education "S" logo. The MyMaps layer containing these point locations can be found here: [Saga Education: Points of Interest](https://www.google.com/maps/d/u/0/edit?mid=1X2hB3TZvF2OSGv880pW4cle3VC8jWoI&hl=en&ll=39.36197068746295%2C-79.42597774999999&z=5). A KML version of this map layer can also be downloaded at this link: [Saga Education: Points of Interest KML](https://github.com/c-sabin/AdvancedGIS_Portfolio/blob/main/NonProfitPoints-HW2.kml).
-
+I utilized Google's MyMaps tool to define these seven points of interest. In addition to defining this point layer, I also customized the icons for each point to be the Saga Education "S" logo. The MyMaps layer containing these point locations can be found here: [Saga Education: Points of Interest](https://www.google.com/maps/d/u/0/edit?mid=1X2hB3TZvF2OSGv880pW4cle3VC8jWoI&hl=en&ll=39.36197068746295%2C-79.42597774999999&z=5). A KML version of this map layer can also be downloaded at this link: [Saga Education: Points of Interest KML](https://raw.githubusercontent.com/c-sabin/AdvancedGIS_Portfolio/main/NonProfitPoints-HW2.kml).

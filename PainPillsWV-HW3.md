@@ -11,7 +11,7 @@ Recently, the Washington Post published an article whereby they analyze "nearly 
 For this assignment, I will be focusing on Mingo County, West Virginia. This focus comes from the unusually high amount of rates of perscriptions delivered to the pharmacies in this county, given the relatively small population of the area. According to the Washington Post's analysis, the immense flow of prescription pills into Mingo County averages out to *each county resident* buying about 180 pills per year. 
 
 To further analyze this flow of pain pills within Mingo County, I used **ArcGIS Insights**. The resulting analysis can be found below:
-<iframe src="https://insights.arcgis.com/#/embed/fcb66ae589ec4d9f80b5db6acc4f5fbc" width="970" height="100%" frameborder="0"></iframe>
+<iframe src="https://insights.arcgis.com/#/embed/fcb66ae589ec4d9f80b5db6acc4f5fbc" width="970" height="200%" frameborder="0"></iframe>
 
 
 ### Insights

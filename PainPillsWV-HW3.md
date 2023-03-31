@@ -13,6 +13,8 @@ For this assignment, I will be focusing on Mingo County, West Virginia. This foc
 To further analyze this flow of pain pills within Mingo County, I used **ArcGIS Insights**. The resulting analysis can be found below:
 <iframe src="https://insights.arcgis.com/#/embed/fcb66ae589ec4d9f80b5db6acc4f5fbc" height="600px" width="970px" allowfullscreen></iframe>
 
+Or, follow this link to explore the dashboard in a new window: [Flow of Pain Pills to Mingo County, WV](https://insights.arcgis.com/#/embed/fcb66ae589ec4d9f80b5db6acc4f5fbc)
+
 ### Insights
 *What did you learn from working with these data and performing this analysis?*
 

@@ -28,7 +28,7 @@ The initial bid for work, including the cost and scheduling for both phases, can
 ### Phase 1: Customize the Map Style
 
 #### Color Palette
-First, I used the Adobe Color tool to extract five colors from the Saga Education logo, which would become the color palette I will use to align the custom map to the non-profit's brand. The color pallete from Saga Education's branded image is provided here: ![Saga Education: Color Palette](https://github.com/c-sabin/AdvancedGIS_Portfolio/blob/main/Saga%20Color%20Palette.png)
+First, I used the Adobe Color tool to extract five colors from the Saga Education logo, which would become the color palette I will use to align the custom map to the non-profit's brand. The color pallete from Saga Education's branded image is provided here: ![Saga Education: Color Palette](Saga%20Color%20Palette.png)
 
 
 #### Style Look-up Table
@@ -64,13 +64,13 @@ When input into the Styling Wizard, these custom elements produced a code chunk 
 The following screenshots show examples of the custom map style that was produced for this assignment. The examples represent three different Zoom levels, focusing on Chicago——where Saga Education does considerable business. 
 
 This first screenshot shows the custom map when zoomed out to focus on the Eastern United States. The focus on the east coast was chosen because six of the seven Saga Education sites are located east of the Mississippi River. At this zoom extent, only the red major highways and the navy blue water features are visible.
-![Zoom level 1](https://github.com/c-sabin/AdvancedGIS_Portfolio/blob/main/NonProfit-Zoom1HW2.png)
+![Zoom level 1](NonProfit-Zoom1HW2.png)
 
 The second screenshot represents the same map, zoomed in to highlight Massachusetts——in which Saga Education's headquarters are located. At this zoom extent, we can start to see the green park areas and smaller, salmon-colored roadways popping up on the visualization.
-![Zoom level 2](https://github.com/c-sabin/AdvancedGIS_Portfolio/blob/main/NonProfit-Zoom2HW2.png)
+![Zoom level 2](NonProfit-Zoom2HW2.png)
 
 The final screenshot in this series is zoomed in even further, to Boston and the surrounding area. The white marker toward the left of this image was chosen to pinpoint the Saga Education HQ in Newton, Massachusetts. At this closer zoom extent, we can now see other points of interest (colored green, teal, and red), as well as more detailed roadways.
-![Zoom level 3](https://github.com/c-sabin/AdvancedGIS_Portfolio/blob/main/NonProfit-Zoom3HW2.png)
+![Zoom level 3](NonProfit-Zoom3HW2.png)
 
 
 ---

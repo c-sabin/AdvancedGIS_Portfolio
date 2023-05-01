@@ -10,4 +10,10 @@ These burgeoning policy interests during my undergraduate studies led me to Hein
 Advanced GIS is particularly interesting to me because of the regional component of my policy interests. Both education and childcare access are geographically-based phenomena, with substantial inequities arising from localized tax bases (invariably shaped by a national history of residential segregation) and transportation infrastructure. I am hoping to expand my understanding of education and childcare access through this class by using ArcGIS and other spatial analysis tools. I am particularly interested in the potential policy implications of spatial data science, as the analyses enabled by ArcGIS and related tools can expand and update our knowledge of the geographic distribution of opportunity in a way that allows us to influence policy more effectively. 
 
 ## Portfolio
-*More details regarding my Advanced GIS Portfolio will be available in the coming weeks!*
+The pages of this portfolio represent various assignments I have completed for the course 90-753: Advanced GIS. Click on the following links to explore these assignments in depth:
+
++ [Build and Deploy a Custom Map](https://c-sabin.github.io/AdvancedGIS_Portfolio/NonProfitWebpage-HW2)
+  *In this assignment, I created a color palette to represent the non-profit organization Saga Education. Based on this brand's colors, I built a custom map style using the Google Styling Wizard. I then deployed this using Google's Cloud platform.*
+  
++ [Mapping the DEA's Pain Pill Database](https://c-sabin.github.io/AdvancedGIS_Portfolio/PainPillsWV-HW3)
+  *This assignment allowed me to explore the capabilities of ArcGIS Insights, a web-based dashboarding tool provided through Esri. I investigated the flow of two schedule two drugs from various pharmacies into Mingo County, West Virginia. I also created a slide deck comparing ArcGIS Insights to the traditional ArcGIS Pro environment, for anyone considering which tool may best suit their project needs.*
